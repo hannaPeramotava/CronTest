@@ -1,0 +1,11 @@
+30 1 /bin/run_me_daily
+45 * /bin/run_me_hourly
+* * /bin/run_me_every_minute
+* 19 /bin/run_me_sixty_times
+* 23 /bin/run_smth1
+59 * /bin/run_smth2
+99 * /bin/run_smth3
+* 99 /bin/run_smth4
+5 16 /bin/run_smth5
+* 16 /bin/run_smth6
+10 * /bin/run_smth7
